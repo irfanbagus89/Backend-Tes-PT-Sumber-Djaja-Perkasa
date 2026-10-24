@@ -58,8 +58,8 @@ DDL lengkap + seed data ada di migrasi: `src/database/migrations/20261024000001_
 1. **Clone & install dependency**
 
    ```bash
-   git clone <url-repository>
-   cd backend_testdjaja
+   git clone https://github.com/irfanbagus89/Backend-Tes-PT-Sumber-Djaja-Perkasa.git
+   cd Backend-Tes-PT-Sumber-Djaja-Perkasa/
    npm install
    ```
 
